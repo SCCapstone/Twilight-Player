@@ -1,6 +1,4 @@
-##                                                                  Twilight Player
-
-How audio should be played 
+##                                                                  Twilight Player  How audio should be played 
 
 
 ### What exactly is Twilight Player? 
