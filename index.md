@@ -14,6 +14,8 @@ Twilight Player is a media player that lets you convert your audio files into hi
 
 Users have access to personally made playlists for files they have downloaded or they can also create their own personal playlists in case they only want specific audio files in one place.
 
+<img src="Screenshot 2022-04-21 8.25.45 PM.png" alt="Playlists">
+
 # Why choose Twilight Player?
 
 Not only do we offer superb audio conversion and an easy user interface, we are also completely free with no catches or pesky ads. 
