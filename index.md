@@ -1,5 +1,5 @@
 
-<img src="Screenshot 2022-04-21 8.40.58 PM.png" alt="Playlists">
+<img src="Screenshot 2022-04-21 8.40.58 PM.png" alt="Logo" style="width:500px;height:600px">
 
 # Twilight Player  
   
