@@ -39,7 +39,7 @@ Want to see Twilight Player in action?
 ======================================
 > TEMP VIDEO
 
-https://user-images.githubusercontent.com/10476684/164582404-f32c2c9d-fb0b-43ad-8b5e-42b9c8b29734.mp4
+[![Twilight-Player](Vid-pic.png)](https://user-images.githubusercontent.com/10476684/164582404-f32c2c9d-fb0b-43ad-8b5e-42b9c8b29734.mp4 "Demo Video")
 
 * * *
 
