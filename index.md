@@ -43,10 +43,9 @@ Not only do we offer superb audio conversion and an easy user interface, we are 
 
 Want to see Twilight Player in action?
 ======================================
-> TEMP VIDEO
 
 <div align="center">
-<a href="https://user-images.githubusercontent.com/10476684/164582404-f32c2c9d-fb0b-43ad-8b5e-42b9c8b29734.mp4" target="_blank"><img src="Vid-pic.png" alt="Demo Video" width="230" height="491"></a>
+<a href="https://user-images.githubusercontent.com/10476684/165220959-d1ac67cc-a9c1-4889-b47a-4df566ac9b9e.mp4" target="_blank"><img src="FinalDemoPic.png" alt="Demo Video" width="1736" height="902"></a>
 </div>
 
 * * *
